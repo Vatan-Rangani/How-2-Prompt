@@ -1,6 +1,8 @@
 # How to Read Research Papers Effectively
 
-A practical, beginner-friendly guide to reading research papers efficiently and critically, combining insights from academic lectures, PhD-level advice, and formal reading guidelines.
+Reading research papers can be intimidating they are often dense, full of jargon, and hard to navigate linearly. Yet, learning to read them effectively is essential for students, researchers, and anyone wanting to stay current in a field.
+
+This guide shows you how to approach papers strategically: read with purpose, extract key ideas quickly, evaluate claims critically, and even generate new insights. By following these methods, you’ll save time, understand the core contributions of each paper, and become a more confident, thoughtful researcher.
 
 ---
 
