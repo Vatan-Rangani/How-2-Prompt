@@ -150,6 +150,6 @@ This guide shows you how to approach papers strategically: read with purpose, ex
   https://youtu.be/IY7PVEZVqtY
 
 - Harvard University. *How to Read an Academic Paper*.  
-  https://writingcenter.fas.harvard.edu/pages/how-read-academic-paper
+ https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf
 
 ---
