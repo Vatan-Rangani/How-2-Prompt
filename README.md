@@ -29,7 +29,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - The goal of reading a research paper is not just to understand the content, but to identify the **scientific contribution** the authors are making and the question they are attempting to answer.
 - Carefully reading a research paper is difficult and time-consuming, and it is normal to spend several hours or multiple reading sessions on a single paper.
 
----
+
 
 ## 2. Reading With a Clear and Intentional Purpose
 
@@ -37,7 +37,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - Before starting, you should decide whether your goal is high-level understanding, comparison with other work, methodological analysis, or deep critique, because this determines how much effort is required.
 - Not every paper deserves a deep read, and learning when to stop reading is an essential research skill.
 
----
+
 
 ## 3. Strategic and Non-Linear Reading Order
 
@@ -49,7 +49,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - The results section should be read critically, focusing on whether the data actually supports the authors’ claims and whether alternative interpretations are possible.
 - The methods section should be read in detail only when you need to evaluate the reliability of results, reproduce the work, or adapt the approach, and can otherwise be skimmed.
 
----
+
 
 ## 4. The Three-Pass (Triple-Pass) Reading Method
 
@@ -57,14 +57,14 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - The second pass focuses on understanding what problem the authors are solving, why they chose their approach, and what results they obtained by reading the introduction, results, and discussion more carefully.
 - The third pass involves deep, line-by-line reading where you evaluate assumptions, logic, data quality, limitations, and whether the conclusions truly follow from the evidence, and this level of reading is only necessary for highly relevant papers.
 
----
+
 
 ## 5. Skimming and Stopping Are Essential Skills
 
 - Skimming is not a shortcut or a weakness, but a necessary skill that allows researchers to process large volumes of literature efficiently.
 - If a paper stops being relevant or useful at any point, you should stop reading and move on without guilt.
 
----
+
 
 ## 6. Reading Critically Rather Than Passively
 
@@ -73,7 +73,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - When data is presented, you should ask whether the right data was collected, whether it was gathered properly, and whether the interpretation is justified.
 - You should actively look for flaws in reasoning, missing limitations, or claims that are not fully supported by evidence.
 
----
+
 
 ## 7. Reading Creatively to Go Beyond the Paper
 
@@ -81,7 +81,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - You should ask yourself what the next research step would be if you were building on this work.
 - Understanding whether a paper contributes new ideas, better implementations, or a unifying framework helps clarify its true impact.
 
----
+
 
 ## 8. Accepting Confusion as a Normal Part of Research
 
@@ -89,7 +89,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - Feeling confused for long periods is normal and does not mean you are unsuited for research.
 - Progress often comes through repeated reading and gradual clarification rather than instant understanding.
 
----
+
 
 ## 9. Practicing Active Reading and Note-Taking
 
@@ -99,7 +99,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - Highlighting and annotating papers helps both during the initial read and when revisiting the paper months later.
 - With deeper understanding, you should expand your notes into a structured outline of the paper’s key points, assumptions, data, and conclusions.
 
----
+
 
 ## 10. Using AI Tools Responsibly
 
@@ -108,7 +108,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - AI can be used effectively to rephrase confusing passages or simplify technical language, after which you should return to the original text with better context.
 - Learning to ask precise and thoughtful questions to AI tools is itself a valuable research skill.
 
----
+
 
 ## 11. Learning Through Comparison and Discussion
 
@@ -116,7 +116,7 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - Scientific contributions can take many forms, including new ideas, improved implementations, or unifying existing work.
 - Discussing papers with other students and professors often leads to clearer understanding and faster learning.
 
----
+
 
 ## 12. Handling Citations, Old Papers, and Reviews
 
@@ -124,20 +124,20 @@ A practical, beginner-friendly guide to reading research papers efficiently and 
 - Very old papers should usually be read selectively, focusing only on the information you need.
 - When learning a new topic, recent literature review papers are often more readable, better organized, and more educational than original research papers.
 
----
+
 
 ## 13. Organizing Papers From the Beginning
 
 - All research papers should be stored in clearly labeled and well-organized folders from the start of your research journey.
 - Good organization prevents losing important papers and saves significant time as your personal library grows.
 
----
+
 
 ## 14. Core Takeaway
 
 - Reading research papers effectively is about strategy rather than speed, and by reading non-linearly, thinking critically and creatively, taking active notes, accepting confusion, and organizing your work, you can steadily grow into a strong and confident researcher.
 
----
+
 
 ## References
 
